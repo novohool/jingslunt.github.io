@@ -1,12 +1,1 @@
-{
-    "githubUsername": "jingslunt",
-    "blogTitle": "欢迎来到JIN的博客",
-    "blogDescribe": "欢迎来到JIN的个人博客。",
-    "htmlTitle": "JIN的博客",
-    "fontColor": "#ffffff",
-    "useBackgroundImage": false,
-    "backgroundColorLeft": "#2690F9",
-    "backgroundColorRight": "#FC2D2D",
-    "audioUrl": "https://raw.githubusercontent.com/jingslunt/jingslunt.github.io/master/static/music/jinli.mp3",
-    "mini": false
-}
+{"githubUsername":"jingslunt","blogTitle":"隐现","blogDescribe":"jings的日记","htmlTitle":"隐现","fontColor":"#ffffff","useBackgroundImage":true,"backgroundColorLeft":"#2690F9","backgroundColorRight":"#FC2D2D","audioUrl":"https://raw.githubusercontent.com/jingslunt/jingslunt.github.io/master/static/music/jinli.mp3","mini":true,"audioAutoPlay":true}
